@@ -1,8 +1,8 @@
 # 3L.EIC029 - Articificial Intelligence
 
-## [Project 1](Project%201): 20/20
+## [Project 1](Projects/Project%201): 20/20
 
-## [Project 2](Project%202): 19.5/20
+## [Project 2](Projects/Project%202): 19.5/20
 
 This repository contains the projects made for the Articificial Intelligence course at FEUP for the academic year 2022/2023.
 
